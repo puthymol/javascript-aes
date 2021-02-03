@@ -1,2 +1,2 @@
-# javascript-aes
-encrypt and decrypt data in Javascript using AES
+# NodeJS-AES
+encrypt and decrypt data in NodeJS using AES
