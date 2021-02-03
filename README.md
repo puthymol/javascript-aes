@@ -1,2 +1,2 @@
 # NodeJS-AES
-encrypt and decrypt data in NodeJS using AES
+Encrypt and Decrypt data in NodeJS using AES
